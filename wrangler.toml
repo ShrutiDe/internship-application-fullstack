@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "desaish-project"
 type = "javascript"
-account_id = ""
+account_id = "fcabce07acbf93dde8210f3d797d574a"
 workers_dev = true
 route = ""
 zone_id = ""
